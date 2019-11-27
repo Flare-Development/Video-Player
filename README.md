@@ -1,12 +1,13 @@
 # Simple Media Player
 
-Please select "View on Github" above to download the video player
+## Please select "View on Github" above to download the video player
 
 
 ### System Requirements
 ```markdown
 - Windows 7+
-- .NET core (You may already have the correct net core vesion installed, instructions will show you how to install it if you don't have it.
+- .NET core (You may already have the correct net core vesion installed.
+Instructions will show you how to install Net Core if you don't have it.
 ```
 
 ### Supported file types:
