@@ -22,5 +22,5 @@ Instructions will show you how to install Net Core if you don't have it.
 ```
 
 ## Avertisment
-Wawnt another annoying bot to your discord server, then add Atari Bot, features are listed on the
+Want another annoying bot to your discord server, then add Atari Bot, features are listed on the
 website [Atari's Website](https://flare-development.github.io/AtariBot/)
